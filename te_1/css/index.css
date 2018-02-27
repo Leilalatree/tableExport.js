@@ -1,0 +1,37 @@
+*{margin:0px;padding:0px;}
+#printer{
+    width: 20%;
+    height: 40px;
+    color: white;
+    background-color: #ff3333;
+    line-height: 40px;
+    font-size: 17px;
+    border:solid 1px white;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+    float: right;
+}
+.printer-text{
+    width: 20%;
+    height: 40px;
+    color: gray;
+    line-height: 40px;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-bottom: 1%;
+    float: left;
+}
+#table{
+    border: solid 1px gray;
+    table-layout:fixed ; 
+    text-align: center;
+}
+.content{
+    width: 100%;
+    text-align: -webkit-center;
+    margin-top: 2%;
+}
+#table td{
+    height:30px;
+}
